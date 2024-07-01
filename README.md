@@ -13,6 +13,8 @@
 
 ### IV. ER Diagram
 > The ER diagram illustrates the entity relationships within the database, including customers, products, orders, locations, shipping, and transactions.
+<img width="455" alt="Screenshot 2024-07-02 at 3 00 18 AM" src="https://github.com/narayanaroyalgithub/Supply_Chain_Management/assets/88378136/f10ed1e9-73d9-4eff-9cc9-8374c93daec6">
+
 
 ### V. Data Schema
 > Customer’s Data: Details of customer’s name, segment.
